@@ -7,7 +7,8 @@ app = FastAPI()
 
 @app.get("/")
 async def root():
-    return {"message": "Hello World"}
+    test_answer = "Hello World"
+    return {"message": test_answer}
 
 
 @app.post("/ocr_image/")

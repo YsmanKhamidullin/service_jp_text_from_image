@@ -1,0 +1,9 @@
+manga-ocr~=0.1.11
+streamlit~=1.28.2
+fastapi~=0.104.1
+transformers~=4.35.2
+pytest~=7.4.3
+httpx
+python-multipart
+uvicorn
+flake8
